@@ -9,7 +9,9 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - UITableView Protocol</string>
+	<string>#pragma mark - UITableView Protocol
+
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3BE103A5-4156-4BC0-A7AC-2E26F5DB9A3C</string>
 	<key>IDECodeSnippetLanguage</key>
