@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markButtonAction</string>
+	<string>markPrivate</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Button Action
+	<string>#pragma mark - Private Methods
 
 </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>129930B9-964B-4EC2-9CB4-BC0D24389ED9</string>
+	<string>030A850A-ED7A-4979-9C5E-66204238134B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark - Button Action</string>
+	<string>#pragma mark - Private Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
