@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markClickEvent</string>
+	<string>@bool</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Click Event
-
-</string>
+	<string>@property (nonatomic, assign) BOOL &lt;#name#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>129930B9-964B-4EC2-9CB4-BC0D24389ED9</string>
+	<string>FDEBF7D1-8707-4099-B94F-0E32CC86B0E1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark - Click Event</string>
+	<string>Property Assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
