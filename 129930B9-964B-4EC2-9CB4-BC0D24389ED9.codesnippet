@@ -15,9 +15,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>129930B9-964B-4EC2-9CB4-BC0D24389ED9</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>#pragma mark - Click Event</string>
 	<key>IDECodeSnippetUserSnippet</key>

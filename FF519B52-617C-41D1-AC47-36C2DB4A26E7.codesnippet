@@ -15,7 +15,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF519B52-617C-41D1-AC47-36C2DB4A26E7</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>#pragma mark - Setter</string>
 	<key>IDECodeSnippetUserSnippet</key>
