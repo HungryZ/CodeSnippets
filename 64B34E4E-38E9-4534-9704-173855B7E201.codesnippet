@@ -10,8 +10,8 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>snp.makeConstraints { (make) in
-            &lt;#code#&gt;
-        }</string>
+    &lt;#make#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>64B34E4E-38E9-4534-9704-173855B7E201</string>
 	<key>IDECodeSnippetLanguage</key>
