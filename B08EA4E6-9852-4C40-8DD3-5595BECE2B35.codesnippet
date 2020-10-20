@@ -9,9 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Network Request
-
-</string>
+	<string>#pragma mark - Network Request</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B08EA4E6-9852-4C40-8DD3-5595BECE2B35</string>
 	<key>IDECodeSnippetLanguage</key>

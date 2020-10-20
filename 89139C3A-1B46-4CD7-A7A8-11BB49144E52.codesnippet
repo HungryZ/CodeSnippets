@@ -3,21 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markPublic</string>
+	<string>getMainTableView</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Public Methods</string>
+	<string>- (UITableView *)mainTableView {
+    if (!_mainTableView) {
+        _mainTableView = [[UITableView alloc] initWithFrame:CGRectZero style:UITableViewStyleGrouped];
+        _mainTableView.dataSource = self;
+        _mainTableView.delegate = self;
+        _mainTableView.rowHeight = 44;
+        _mainTableView.showsVerticalScrollIndicator = NO;
+    }
+    return _mainTableView;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0EEC02CE-3F6E-448B-886E-493D07EF9DAC</string>
+	<string>89139C3A-1B46-4CD7-A7A8-11BB49144E52</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#pragma mark - Public Methods</string>
+	<string>TableView Getter</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
