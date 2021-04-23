@@ -3,33 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markFormat</string>
+	<string></string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Life Cycle
+	<string>#if COMMUNITY
 
-#pragma mark - Layout
+#else
 
-#pragma mark - ViewModel Delegate
-
-#pragma mark - User Interaction
-
-#pragma mark - Helper
-
-#pragma mark - Setter
-
-#pragma mark - Getter</string>
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4C35AB17-89E4-4937-8096-8ECD8E503543</string>
+	<string>BBD04AB6-4C09-4508-BE1B-443A00B525C4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Code Format</string>
+	<string>TargetJudge</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

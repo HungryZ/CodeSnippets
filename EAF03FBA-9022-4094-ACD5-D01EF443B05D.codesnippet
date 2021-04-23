@@ -3,33 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>markFormat</string>
+	<string>ifSimulator</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - Life Cycle
-
-#pragma mark - Layout
-
-#pragma mark - ViewModel Delegate
-
-#pragma mark - User Interaction
-
-#pragma mark - Helper
-
-#pragma mark - Setter
-
-#pragma mark - Getter</string>
+	<string>#if !TARGET_IPHONE_SIMULATOR
+&lt;#code#&gt;
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4C35AB17-89E4-4937-8096-8ECD8E503543</string>
+	<string>EAF03FBA-9022-4094-ACD5-D01EF443B05D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Code Format</string>
+	<string>IF SIMULATOR</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
