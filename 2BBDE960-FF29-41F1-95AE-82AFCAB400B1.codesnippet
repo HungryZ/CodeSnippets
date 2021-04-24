@@ -10,6 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>#if GUANGDONG
+&lt;#code#&gt;
 #endif</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2BBDE960-FF29-41F1-95AE-82AFCAB400B1</string>
@@ -22,6 +23,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
