@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dealloc</string>
+	<string>ifVision</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)dealloc {
-    NSLog(@"%p %s", self, __func__);
-}</string>
+	<string>#if !TARGET_OS_VISION
+    &lt;#code#&gt;
+#endif</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3E2BC0A0-709B-4F8E-8701-29BBFC3F8AB9</string>
+	<string>8DE7DF18-8046-47F3-B6A8-97FF4A97A908</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>dealloc</string>
+	<string>IF VISION</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>dealloc</string>
+	<string>zhclog</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)dealloc {
-    NSLog(@"%p %s", self, __func__);
-}</string>
+	<string>NSLog(@"zhclog &lt;#text#&gt;:%@", &lt;#param#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3E2BC0A0-709B-4F8E-8701-29BBFC3F8AB9</string>
+	<string>D9602312-56A3-4AB1-9620-C67AFACFC2D0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>dealloc</string>
+	<string>zhclog</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
